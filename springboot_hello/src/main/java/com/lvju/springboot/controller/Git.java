@@ -9,7 +9,6 @@ public class Git
         System.out.println("第三次提交本地库");
         System.out.println("热修更新");
         System.out.println("push 测试");
-
-
+        System.out.println("pull 测试");
     }
 }
